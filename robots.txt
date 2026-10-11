@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saudievents.github.io/sitemap.xml
